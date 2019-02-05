@@ -1,0 +1,29 @@
+{
+  sections:
+    {
+      "section": [{
+        "title": "Vista",
+        "shortdesc": "Vista is a great product, you should definitely buy it.",
+        "logo": "https://s3-us-west-2.amazonaws.com/cdn.viewpoint.corporate/icons/products-regular/Product-icons-_V.png",
+        "content-link": "../Vista/Maps/d_vista.ditamap"
+      }, {
+        "title": "Viewpoint Team",
+        "shortdesc": "Teams are more powerful with Viewpoint Team",
+        "logo": "https://s3-us-west-2.amazonaws.com/cdn.viewpoint.corporate/icons/products-regular/Product-icons-_T.png",
+        "content-link": "../VOL/d_viewpoint_team.ditamap"
+      }, {
+        "title": "Viewpoint For Projects",
+        "shortdesc": "Make projects faster.",
+        "logo": "https://s3-us-west-2.amazonaws.com/cdn.viewpoint.corporate/icons/products-regular/Product-icons-_V.png",
+        "content-link": "../Viewpoint_For_Projects/m_user_guide_vfp.ditamap"
+      }, {
+        "title": "Viewpoint Field View",
+        "shortdesc": "A cloud-based and off-line mobile solution that replaces pen and paper in the field for quality, safety, project delivery and closeout/commissioning.",
+        "logo": "https://s3-us-west-2.amazonaws.com/cdn.viewpoint.corporate/icons/products-regular/Product-icons-_FV.png",
+        "content-link": "../Viewpoint_For_Projects/m_user_guide_vfp.ditamap"
+      }]
+    }
+
+    
+    
+}
